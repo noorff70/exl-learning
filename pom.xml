@@ -9,15 +9,17 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.elearning</groupId>
-	<artifactId>e-learning</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>exl-learning</artifactId>
+	<version>1</version>
 	<packaging>war</packaging>
 	<name>exl-learning</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
+		<!-- <start-class>com.elearning.ExlLearningApplication.class</start-class>-->
 	</properties>
+	
 
 	<dependencies>
 		<dependency>
