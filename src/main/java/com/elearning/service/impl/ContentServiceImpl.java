@@ -33,6 +33,8 @@ public class ContentServiceImpl implements ContentService{
 		return contentDAO.getContentsListByContentDesc(desc);
 	}
 
-
+	public Boolean insertStudentContent(String userName, long contentId ) {
+		return contentDAO.insertStudentContent(userName, contentId);
+	}
 
 }

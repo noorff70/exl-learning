@@ -45,5 +45,14 @@ public class ContentController {
 		return contentList;
 		
 	}
+	
+	@GetMapping("/insertContentforLoggedStudent") 
+	public Boolean insertStudentContent(@RequestParam("USERNAME") String userName,  @RequestParam("CONTENTID") long contentId) {
+		
+		Boolean insertOk = contentService.insertStudentContent(userName, contentId);
+		
+		return insertOk;
+		
+	}
 
 }

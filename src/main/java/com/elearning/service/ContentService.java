@@ -10,5 +10,6 @@ public interface ContentService {
 	public List<Contents> getAllContentsById(long id);
 	public List<Contents> getContentsListByStudentId(long studentId);
 	public List<Contents> getContentsListByContentDesc(String desc);
+	public Boolean insertStudentContent(String userName, long contentId );
 
 }
