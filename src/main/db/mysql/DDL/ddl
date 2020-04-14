@@ -1,0 +1,59 @@
+CREATE TABLE `contents` (
+  `contentId` int(11) NOT NULL,
+  `contentName` varchar(200) NOT NULL,
+  `contentDesc` varchar(200) NOT NULL,
+  `tutorId` int(11) NOT NULL,
+  `topicId` int(11) NOT NULL,
+  PRIMARY KEY (`contentId`),
+  KEY `FK_CONTENTS_TOPIC_idx` (`topicId`),
+  KEY `FK_CONTENTS_TUTOR_idx` (`tutorId`),
+  CONSTRAINT `FK_CONTENTS_TOPIC` FOREIGN KEY (`topicId`) REFERENCES `topic` (`topicId`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `FK_CONTENTS_TUTOR` FOREIGN KEY (`tutorId`) REFERENCES `tutor` (`tutorId`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+=============================
+
+
+CREATE TABLE `student` (
+  `studentId` int(11) NOT NULL AUTO_INCREMENT,
+  `studentFName` varchar(45) DEFAULT NULL,
+  `studentLName` varchar(45) DEFAULT NULL,
+  `studentEmail` varchar(45) DEFAULT NULL,
+  `userName` varchar(45) NOT NULL,
+  `password` varchar(45) NOT NULL,
+  `userLogged` int(11) DEFAULT NULL,
+  PRIMARY KEY (`studentId`),
+  UNIQUE KEY `userName_UNIQUE` (`userName`)
+) ENGINE=InnoDB AUTO_INCREMENT=19 DEFAULT CHARSET=utf8;
+
+==============================
+
+CREATE TABLE `student_content` (
+  `student_content_Id` int(11) NOT NULL AUTO_INCREMENT,
+  `studentId` int(11) NOT NULL,
+  `contentId` int(11) NOT NULL,
+  PRIMARY KEY (`student_content_Id`),
+  KEY `FK_STUDENT-CONTEBT_CONTENT_idx` (`contentId`),
+  KEY `FK_STUDENT-CONTENT_STUDENT_idx` (`studentId`),
+  CONSTRAINT `FK_STUDENT-CONTEBT_CONTENT` FOREIGN KEY (`contentId`) REFERENCES `contents` (`contentId`) ON DELETE NO ACTION ON UPDATE NO ACTION,
+  CONSTRAINT `FK_STUDENT-CONTENT_STUDENT` FOREIGN KEY (`studentId`) REFERENCES `student` (`studentId`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
+
+===============================
+
+CREATE TABLE `topic` (
+  `topicId` int(11) NOT NULL AUTO_INCREMENT,
+  `topicName` varchar(45) NOT NULL,
+  `topicDesc` varchar(45) NOT NULL,
+  PRIMARY KEY (`topicId`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8 COMMENT='	';
+
+================================
+
+CREATE TABLE `tutor` (
+  `tutorId` int(11) NOT NULL AUTO_INCREMENT,
+  `tutorFName` varchar(45) NOT NULL,
+  `tutorLName` varchar(45) NOT NULL,
+  `tutorAddress` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`tutorId`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
