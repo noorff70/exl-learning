@@ -101,6 +101,7 @@ class LessonSubTitle {
 	
 	String name;
 	String lessonLink;
+	String lessonType;
 	
 	public String getName() {
 		return name;
@@ -114,5 +115,10 @@ class LessonSubTitle {
 	public void setLessonLink(String lessonLink) {
 		this.lessonLink = lessonLink;
 	}
-	
+	public String getLessonType() {
+		return lessonType;
+	}
+	public void setLessonType(String lessonType) {
+		this.lessonType = lessonType;
+	}
 }
