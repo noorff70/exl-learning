@@ -372,4 +372,725 @@
       ]
     }
   ]
+	},{
+  "_id": 2,
+  "lessonTitle": "Object Oriented Programming in Java",
+  "lessonAuthor": "Faizul Noor",
+  "duration": "207.33",
+  "pre-requisite": "Basic Java",
+  "level": "Beginners- Intermediary",
+  "Environment": [
+    {
+      "description": "Java"
+    },
+    {
+      "id": "2",
+      "description": "Eclipse"
+    }
+  ],
+  "lessonMission": [
+    {
+      "id": "1",
+      "description": "Familiar with Class and Objects"
+    },
+    {
+      "id": "2",
+      "description": "Understand Object Oriented Principles"
+    },
+    {
+      "id": "3",
+      "description": "Utilize OOP understanding towards Application Development"
+    },
+    {
+      "id": "4",
+      "description": "Prepare for Career improvements"
+    },
+    {
+      "id": "5",
+      "description": "Understand Best Practices"
+    }
+  ],
+  "lessonContent": [
+    {
+      "lessonTitle": "Course Introduction",
+      "subTitle": [
+        {
+          "name": "Introduction to the Course and Objectives",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/1.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Concepts of Objects and Classes",
+      "subTitle": [
+        {
+          "name": "Objects and Classes",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/2.m4v"
+        },
+        {
+          "name": "Case Study- Objects and Classes",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/3.m4v"
+        },
+        {
+          "name": "New Instance Creation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/4.m4v"
+        },
+        {
+          "name": "Object Assignment",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/5.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Class and Instance Members",
+      "subTitle": [
+        {
+          "name": "Instance Variables",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/6.m4v"
+        },
+        {
+          "name": "Instance Methods",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/7.m4v"
+        },
+        {
+          "name": "Static Members",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/11.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Constructors",
+      "subTitle": [
+        {
+          "name": "Constructor Concepts",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/8.m4v"
+        },
+        {
+          "name": "Constructor Overloading",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/9.m4v"
+        },
+        {
+          "name": "Constructor Chaining",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/10.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Abstract Class and Interface",
+      "subTitle": [
+        {
+          "name": "Abstract Class",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/12.m4v"
+        },
+        {
+          "name": "Interface",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/13.m4v"
+        },
+        {
+          "name": "Interface default Method",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/14.m4v"
+        },
+        {
+          "name": "Method Overriding",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/15.m4v"
+        },
+        {
+          "name": "Inner Classes",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/21.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Object Oriented Principles",
+      "subTitle": [
+        {
+          "name": "Inheritance",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/16.m4v"
+        },
+        {
+          "name": "Multiple Inheritance",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/17.m4v"
+        },
+        {
+          "name": "Encapsulation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/18.m4v"
+        },
+        {
+          "name": "Polymorphism",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/19.m4v"
+        },
+        {
+          "name": "Abstraction",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/20.m4v"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": 2,
+  "lessonTitle": "Object Oriented Programming in Java",
+  "lessonAuthor": "Faizul Noor",
+  "duration": "207.33",
+  "pre-requisite": "Basic Java",
+  "level": "Beginners- Intermediary",
+  "Environment": [
+    {
+      "description": "Java"
+    },
+    {
+      "id": "2",
+      "description": "Eclipse"
+    }
+  ],
+  "lessonMission": [
+    {
+      "id": "1",
+      "description": "Familiar with Class and Objects"
+    },
+    {
+      "id": "2",
+      "description": "Understand Object Oriented Principles"
+    },
+    {
+      "id": "3",
+      "description": "Utilize OOP understanding towards Application Development"
+    },
+    {
+      "id": "4",
+      "description": "Prepare for Career improvements"
+    },
+    {
+      "id": "5",
+      "description": "Understand Best Practices"
+    }
+  ],
+  "lessonContent": [
+    {
+      "lessonTitle": "Course Introduction",
+      "subTitle": [
+        {
+          "name": "Introduction to the Course and Objectives",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/1.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Concepts of Objects and Classes",
+      "subTitle": [
+        {
+          "name": "Objects and Classes",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/2.m4v"
+        },
+        {
+          "name": "Case Study- Objects and Classes",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/3.m4v"
+        },
+        {
+          "name": "New Instance Creation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/4.m4v"
+        },
+        {
+          "name": "Object Assignment",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/5.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Class and Instance Members",
+      "subTitle": [
+        {
+          "name": "Instance Variables",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/6.m4v"
+        },
+        {
+          "name": "Instance Methods",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/7.m4v"
+        },
+        {
+          "name": "Static Members",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/11.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Constructors",
+      "subTitle": [
+        {
+          "name": "Constructor Concepts",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/8.m4v"
+        },
+        {
+          "name": "Constructor Overloading",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/9.m4v"
+        },
+        {
+          "name": "Constructor Chaining",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/10.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Abstract Class and Interface",
+      "subTitle": [
+        {
+          "name": "Abstract Class",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/12.m4v"
+        },
+        {
+          "name": "Interface",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/13.m4v"
+        },
+        {
+          "name": "Interface default Method",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/14.m4v"
+        },
+        {
+          "name": "Method Overriding",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/15.m4v"
+        },
+        {
+          "name": "Inner Classes",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/21.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Object Oriented Principles",
+      "subTitle": [
+        {
+          "name": "Inheritance",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/16.m4v"
+        },
+        {
+          "name": "Multiple Inheritance",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/17.m4v"
+        },
+        {
+          "name": "Encapsulation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/18.m4v"
+        },
+        {
+          "name": "Polymorphism",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/19.m4v"
+        },
+        {
+          "name": "Abstraction",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/20.m4v"
+        }
+      ]
+    }
+  ]
+},{
+  "_id": 2,
+  "lessonTitle": "Object Oriented Programming in Java",
+  "lessonAuthor": "Faizul Noor",
+  "duration": "207.33",
+  "pre-requisite": "Basic Java",
+  "level": "Beginners- Intermediary",
+  "Environment": [
+    {
+      "description": "Java"
+    },
+    {
+      "id": "2",
+      "description": "Eclipse"
+    }
+  ],
+  "lessonMission": [
+    {
+      "id": "1",
+      "description": "Familiar with Class and Objects"
+    },
+    {
+      "id": "2",
+      "description": "Understand Object Oriented Principles"
+    },
+    {
+      "id": "3",
+      "description": "Utilize OOP understanding towards Application Development"
+    },
+    {
+      "id": "4",
+      "description": "Prepare for Career improvements"
+    },
+    {
+      "id": "5",
+      "description": "Understand Best Practices"
+    }
+  ],
+  "lessonContent": [
+    {
+      "lessonTitle": "Course Introduction",
+      "subTitle": [
+        {
+          "name": "Introduction to the Course and Objectives",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/1.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Concepts of Objects and Classes",
+      "subTitle": [
+        {
+          "name": "Objects and Classes",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/2.m4v"
+        },
+        {
+          "name": "Case Study- Objects and Classes",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/3.m4v"
+        },
+        {
+          "name": "New Instance Creation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/4.m4v"
+        },
+        {
+          "name": "Object Assignment",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/5.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Class and Instance Members",
+      "subTitle": [
+        {
+          "name": "Instance Variables",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/6.m4v"
+        },
+        {
+          "name": "Instance Methods",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/7.m4v"
+        },
+        {
+          "name": "Static Members",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/11.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Constructors",
+      "subTitle": [
+        {
+          "name": "Constructor Concepts",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/8.m4v"
+        },
+        {
+          "name": "Constructor Overloading",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/9.m4v"
+        },
+        {
+          "name": "Constructor Chaining",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/10.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Abstract Class and Interface",
+      "subTitle": [
+        {
+          "name": "Abstract Class",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/12.m4v"
+        },
+        {
+          "name": "Interface",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/13.m4v"
+        },
+        {
+          "name": "Interface default Method",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/14.m4v"
+        },
+        {
+          "name": "Method Overriding",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/15.m4v"
+        },
+        {
+          "name": "Inner Classes",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/21.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Object Oriented Principles",
+      "subTitle": [
+        {
+          "name": "Inheritance",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/16.m4v"
+        },
+        {
+          "name": "Multiple Inheritance",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/17.m4v"
+        },
+        {
+          "name": "Encapsulation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/18.m4v"
+        },
+        {
+          "name": "Polymorphism",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/19.m4v"
+        },
+        {
+          "name": "Abstraction",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java102/20.m4v"
+        }
+      ]
+    }
+  ]
+  },
+  {
+  "_id": 3,
+  "lessonTitle": "Advance Topics in Java",
+  "lessonAuthor": "Faizul Noor",
+  "duration": "197.74",
+  "pre-requisite": "Basic and Object Oriented Java",
+  "level": "Beginners- Intermediary",
+  "Environment": [
+    {
+      "description": "Java"
+    },
+    {
+      "id": "2",
+      "description": "Eclipse"
+    }
+  ],
+  "lessonMission": [
+    {
+      "id": "1",
+      "description": "Enhance skills in Java"
+    },
+    {
+      "id": "2",
+      "description": "Understand Advance Java"
+    },
+    {
+      "id": "3",
+      "description": "Help create a full Java Application"
+    },
+    {
+      "id": "4",
+      "description": "Prepare for Career improvements"
+    },
+    {
+      "id": "5",
+      "description": "Understand Best Practices"
+    }
+  ],
+  "lessonContent": [
+    {
+    "lessonTitle": "Java Exceptions",
+      "subTitle": [
+        {
+          "name": "Java Exceptions Concepts",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/2.m4v"
+        },
+        {
+          "name": "Try.. Catch in Java",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/3.m4v"
+        },
+        {
+          "name": "Throw Exceptions",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/4.m4v"
+        },
+        {
+          "name": "Custom Exceptions",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/5.m4v"
+        }
+      ]
+    },
+    {
+    "lessonTitle": "Java Collections",
+      "subTitle": [
+        {
+          "name": "Collections Basic",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/6.m4v"
+        },
+        {
+          "name": "Iterators",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/7.m4v"
+        },
+        {
+          "name": "List",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/8.m4v"
+        },
+        {
+          "name": "Set",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/9.m4v"
+        },
+        {
+          "name": "Map",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/10.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Object Class",
+      "subTitle": [
+        {
+          "name": "toString()",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/12.m4v"
+        },
+        {
+          "name": "equals() and hashCode()",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/12.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Java Generics",
+      "subTitle": [
+        {
+          "name": "Concepts",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/13.m4v"
+        },
+        {
+          "name": "Generics- Bounded Types",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/14.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Thread and Concurrency",
+      "subTitle": [
+        {
+          "name": "Java Threads",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/15.m4v"
+        },
+        {
+          "name": "Thread creation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/16.m4v"
+        },
+        {
+          "name": "synchronized and volatile",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/17.m4v"
+        },
+        {
+          "name": "Thread communication",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/18.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Java Enums",
+      "subTitle": [
+        {
+          "name": "Enums",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/19.m4v"
+        },
+        {
+          "name": "Enum Constructors and Methods",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/20.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Wrapper Classes",
+      "subTitle": [
+        {
+          "name": "Concepts",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/21.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Java IO",
+      "subTitle": [
+        {
+          "name": "Byte Streams",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/22.m4v"
+        },
+        {
+          "name": "Character Streams",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/23.m4v"
+        },
+        {
+          "name": "Buffered Streams",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java103/24.m4v"
+        }
+      ]
+    }
+  ]
 }]
