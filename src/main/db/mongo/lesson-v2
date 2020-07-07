@@ -1093,4 +1093,166 @@
       ]
     }
   ]
-}]
+},  {
+  "_id": 4,
+  "lessonTitle": "Java Web Technology, Part- 1",
+  "lessonAuthor": "Faizul Noor",
+  "duration": "107.02",
+  "pre-requisite": "Object Oriented Java",
+  "level": "Intermediate",
+  "Environment": [
+    {
+      "description": "Java"
+    },
+    {
+      "id": "2",
+      "description": "Eclipse"
+    }
+  ],
+  "lessonMission": [
+    {
+      "id": "1",
+      "description": "Understand Web Technologies"
+    },
+    {
+      "id": "2",
+      "description": "Understand Java Servlet API"
+    },
+    {
+      "id": "3",
+      "description": "Familiar with MVC Design Pattern"
+    },
+    {
+      "id": "4",
+      "description": "Prepare for Career improvements"
+    },
+    {
+      "id": "5",
+      "description": "Understand Best Practices"
+    }
+  ],
+  "lessonContent": [
+    {
+    "lessonTitle": "Course Introduction",
+      "subTitle": [
+        {
+          "name": "Introduction to Course and Objectives",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/1.m4v"
+        }
+      ]
+    },
+    {
+    "lessonTitle": "Web Technologies",
+      "subTitle": [
+        {
+          "name": "Basic Concepts in Web",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/2.m4v"
+        },
+        {
+          "name": "Web Containers",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/3.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Java Web Technology",
+      "subTitle": [
+        {
+          "name": "Web Application Directory",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/4.m4v"
+        },
+        {
+          "name": "Servlet, HSP and JSTL",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/5.m4v"
+        },
+        {
+          "name": "Servlet API",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/6.m4v"
+        },
+        {
+          "name": "Servlet Config and Context",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/7.m4v"
+        },
+        {
+          "name": "Servlet Life Cycle",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/8.m4v"
+        },
+        {
+          "name": "Form Data",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/9.m4v"
+        },
+        {
+          "name": "Design Pattern",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/10.m4v"
+        }
+        
+      ]
+    },
+    {
+      "lessonTitle": "Environment Setup",
+      "subTitle": [
+        {
+          "name": "Setting up Tomcat and Eclipse",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/11.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Project Architecture",
+      "subTitle": [
+        {
+          "name": "Designing Project",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/12.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Building the Web Project",
+      "subTitle": [
+        {
+          "name": "Dynamic Web Project",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/13.m4v"
+        },
+        {
+          "name": "First Controller",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/14.m4v"
+        },
+        {
+          "name": "The View",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/15.m4v"
+        },
+        {
+          "name": "Initialize Data",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/16.m4v"
+        },
+        {
+          "name": "The Model",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/17.m4v"
+        },
+        {
+          "name": "Tag Library",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java104/18.m4v"
+        }
+      ]
+    }
+  ]
+ }
+]
