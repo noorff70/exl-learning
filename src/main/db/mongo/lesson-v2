@@ -1254,5 +1254,167 @@
       ]
     }
   ]
- }
+ }, // end og J104
+ {
+  "_id": 5,
+  "lessonTitle": "Java Web Technology, Part- 2",
+  "lessonAuthor": "Faizul Noor",
+  "duration": "111.45",
+  "pre-requisite": "Object Oriented Java",
+  "level": "Intermediate",
+  "Environment": [
+    {
+      "description": "Java"
+    },
+    {
+      "id": "2",
+      "description": "Eclipse"
+    },
+    {
+      "id": "3",
+      "description": "Maven"
+    },
+    {
+      "id": "4",
+      "description": "Tomcat"
+    },
+    {
+      "id": "5",
+      "description": "JUnit"
+    },
+    {
+      "id": "6",
+      "description": "mySQL"
+    }
+  ],
+  "lessonMission": [
+    {
+      "id": "1",
+      "description": "Deeper understanding into Java Web Technologies"
+    },
+    {
+      "id": "2",
+      "description": "Maven Build"
+    },
+    {
+      "id": "3",
+      "description": "Java Database Connectivity"
+    },
+    {
+      "id": "4",
+      "description": "Unit Testing"
+    },
+    {
+      "id": "5",
+      "description": "Design Patterns"
+    }
+  ],
+  "lessonContent": [
+    {
+    "lessonTitle": "Course Introduction",
+      "subTitle": [
+        {
+          "name": "Introduction to Course and Objectives",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/1.m4v"
+        }
+      ]
+    },
+    {
+    "lessonTitle": "Web Technologies",
+      "subTitle": [
+        {
+          "name": "Maven",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/2.mp4"
+        },
+        {
+          "name": "Layered Architecture",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/3.m4v"
+        },
+        {
+          "name": "Data Access Object Pattern",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/4.m4v"
+        },
+        {
+          "name": "JDBC and Connection Pool",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/5.m4v"
+        },
+        {
+          "name": "Web Application Security",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/6.m4v"
+        },
+        {
+          "name": "Exception Handling",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/7.m4v"
+        },
+        {
+          "name": "Unit Testing",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/8.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Practical Web App Development",
+      "subTitle": [
+        {
+          "name": "Web App Creation with Maven",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/9.m4v"
+        },
+        {
+          "name": "Layered Implementation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/10.m4v"
+        },
+        {
+          "name": "mySQL Db",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/11.m4v"
+        },
+        {
+          "name": "Connecting to DB",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/12.m4v"
+        },
+        {
+          "name": "Data Layer",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/13.m4v"
+        },
+        {
+          "name": "Exception Handling",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/14.m4v"
+        },
+        {
+          "name": "Service Layer Implementation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/15.m4v"
+        },
+        {
+          "name": "Localization",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/16.m4v"
+        },
+        {
+          "name": "JUnit Testing",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/17.m4v"
+        },
+        {
+          "name": "Maven Build",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java105/18.m4v"
+        }
+      ]
+    }
+  ]
+ } // end of J105
 ]
