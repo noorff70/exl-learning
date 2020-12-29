@@ -1417,4 +1417,220 @@
     }
   ]
  } // end of J105.
+  { // start of J106
+  "_id": 6,
+  "lessonTitle": "Java Web Technology with Spring MVC, JPA< Hibernate, and Unit Testing with Spring JUnit",
+  "lessonAuthor": "Faizul Noor",
+  "duration": "160.95",
+  "pre-requisite": "Maven, Servlet, JSP, Tomcat, MySQL",
+  "level": "Intermediate",
+  "Environment": [
+    {
+      "id": "1",
+      "description": "Java"
+    },
+    {
+      "id": "2",
+      "description": "Eclipse"
+    },
+    {
+      "id": "3",
+      "description": "Maven"
+    },
+    {
+      "id": "4",
+      "description": "Tomcat"
+    },
+    {
+      "id": "5",
+      "description": "JUnit"
+    },
+    {
+      "id": "6",
+      "description": "mySQL"
+    },
+    {
+      "id": "7",
+      "description": "Spring Web MVC"
+    },
+    {
+      "id": "8",
+      "description": "JPA and Hibernate"
+    },
+    {
+      "id": "9",
+      "description": "Spring JUnit and Test Suite"
+    }
+  ],
+  "lessonMission": [
+    {
+      "id": "1",
+      "description": "Understanding of Spring Web MVC Framework"
+    },
+    {
+      "id": "2",
+      "description": "Object relational modeling- ORM"
+    },
+    {
+      "id": "3",
+      "description": "JPA and Hibernate"
+    },
+    {
+      "id": "4",
+      "description": "Unit Testing and Test Suite"
+    }
+  ],
+  "lessonContent": [
+    {
+    "lessonTitle": "Course Introduction",
+      "subTitle": [
+        {
+          "name": "Introduction to Course and Objectives",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/1.m4v"
+        }
+      ]
+    },
+    {
+    "lessonTitle": "Spring Web MVC Framework",
+      "subTitle": [
+        {
+          "name": "Introduction to Framework",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/2.m4v"
+        },
+        {
+          "name": "Dependency Injection- DI and IoC",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/3.m4v"
+        },
+        {
+          "name": "Type of DIs",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/4.m4v"
+        },
+        {
+          "name": "Spring MVC",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/5.m4v"
+        },
+        {
+          "name": "Spring XML configuration",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/6.m4v"
+        },
+        {
+          "name": "Spring Annotations",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/7.m4v"
+        },
+        {
+          "name": "Spring Java Configuration",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/8.m4v"
+        },
+        {
+          "name": "Spring Controller",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/9.m4v"
+        }
+      ]
+    },
+    {
+      "lessonTitle": "Java Persistence API- JPA",
+      "subTitle": [
+        {
+          "name": "Introduction to JPA",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/10.m4v"
+        },
+        {
+          "name": "JPA Configuration",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/11.m4v"
+        },
+        {
+          "name": "Persistence Process",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/12.m4v"
+        },
+        {
+          "name": "Entity Manager",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/13.m4v"
+        },
+        {
+          "name": "Entity Manager methods",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/14.m4v"
+        },
+        {
+          "name": "Transactions",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/15.m4v"
+        },
+        {
+          "name": "Entities",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/16.m4v"
+        },
+        {
+          "name": "One to One Entity Relation",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/17.m4v"
+        },
+        {
+          "name": "One to One Entity Relation- 2",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/18.m4v"
+        },
+        {
+          "name": "One to Many Entity Relationship",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/19.m4v"
+        },
+        {
+          "name": "Many to Many Entity Relationship",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/20.m4v"
+        },
+        {
+          "name": "JPQL",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/21.m4v"
+        },
+        {
+          "name": "Named Query",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/22.m4v"
+        },
+        {
+          "name": "Cascade Type",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/23.m4v"
+        },
+        {
+          "name": "Database Schema",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/24.m4v"
+        }
+      ]
+    },
+    {
+    	"lessonTitle": "Unit Testing",
+    	"subTitle": [
+        {
+          "name": "Junit Test",
+          "lessonType": "1",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/25.m4v"
+        },
+        {
+          "name": "Test Suite",
+          "lessonType": "0",
+          "lessonLink": "https://cholosikhi.s3.ap-south-1.amazonaws.com/Java106/26.m4v"
+        }
+       ]
+    } // end of J106
+  ]
+ }
 ]
