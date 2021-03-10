@@ -33,4 +33,12 @@ public class UserAccessServiceImpl implements UserAccessService{
 		return contentList;
 	}
 
+	
+	public List<Contents> loggedContents(Student st) {
+
+		List<Contents> contentList = userAccessDAO.loggedUserContents(st);
+		
+		return contentList;
+	}
+
 }

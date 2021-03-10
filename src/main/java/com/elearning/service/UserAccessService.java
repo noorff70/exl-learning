@@ -10,5 +10,5 @@ public interface UserAccessService {
 	
 	public UserRegisterReturnObject register (Student student);
 	public List<Contents> loginByUserName(Student st);
-
+	public List<Contents> loggedContents(Student st);
 }

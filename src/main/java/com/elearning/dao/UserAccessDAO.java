@@ -10,5 +10,6 @@ public interface UserAccessDAO {
 	
 	public UserRegisterReturnObject registerNewUser(Student st);
 	public List<Contents> loginByUserName(Student st);
+	public List<Contents> loggedUserContents(Student st);
 
 }

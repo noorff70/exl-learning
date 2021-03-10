@@ -36,4 +36,13 @@ public class UserAccessController {
 			return userContents;
 			
 		}
+		
+		@PostMapping("/loggedUserContents")
+		public List<Contents> loggedContents (@RequestBody Student student) {
+			
+			List<Contents> userContents = userAccess.loggedContents(student);
+			
+			return userContents;
+			
+		}
 }

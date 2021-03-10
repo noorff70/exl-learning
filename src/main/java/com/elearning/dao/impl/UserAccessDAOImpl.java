@@ -87,5 +87,28 @@ public class UserAccessDAOImpl implements UserAccessDAO{
 		}
 		return contents;
 	}
+	
+	/*
+	 * Return contents of a logged user
+	 * 
+	 */
+	public List<Contents> loggedUserContents(Student st) {
+
+		String userName = st.getUserName().toLowerCase();
+
+		List<Contents> contents = null;
+
+		// retrieve logged user
+		String queryStudent = "select * from Student where LOWER(username) = ? ";
+
+		Student student = jdbcTemplate1.queryForObject(queryStudent, new Object[] { userName }, new StudentRowMapper());
+
+		if (student != null) {
+			// get all the contents
+			contents = contentDAO.getContentsByContentIdList(student.getStudentId());
+		}
+
+		return contents;
+	}
 
 }
